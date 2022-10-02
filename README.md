@@ -1,6 +1,6 @@
 # NodeJs CRUD with Mongodb
 
-Implementation of a api in NodeJs, using the mongodb to database, during the course of Alura, aim at the learning.
+Implementation of a api in [NodeJs](https://nodejs.org/en/), using the [Mongodb](https://www.mongodb.com/) to database, during the course of [Alura](https://cursos.alura.com.br), aim at the learning.
 
 
 # Topics implemented
